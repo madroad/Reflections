@@ -1,0 +1,15 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I can rcover files/backups.  I can also go back versions if something I tried didn't work very well.
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Manually committing begs the question as to whether or not you remember to commit, and when.  But, if you become practiced at it it could be better than autosaving.  Autosaving leads to difficulty in tracking down when something was done, such as a small change, etc.
+
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is allowing you to always keep the versions of each file straight. That means that you can be confident there have been no changes to the other files along the way.
